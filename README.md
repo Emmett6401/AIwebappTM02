@@ -15,3 +15,8 @@
 ![실행화면](https://github.com/Emmett6401/AIwebappTM02/blob/main/res/cap1.PNG)
 
 ## 프로그램 실행하기 
+https://emmett6401.github.io/AIwebappTM02/
+<br> *위 링크를 클릭하시면 실행됩니다. 
+
+[feat] 다음 링크는 readme.md에 배지와 풍부한 설명을 한 사례 입니다. 참고 하세요 
+https://github.com/kingodjerry/tensorflowJS
