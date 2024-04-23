@@ -7,3 +7,4 @@
   2. javascript
   3. css
 ## 실행 화면 
+![실행화면](https://github.com/Emmett6401/AIwebappTM02/res/blob/main/cap1.PNG)
