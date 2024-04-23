@@ -8,3 +8,5 @@
   3. css
 ## 실행 화면 
 ![실행화면](https://github.com/Emmett6401/AIwebappTM02/blob/main/res/cap1.PNG)
+
+## 프로그램 실행하기 
