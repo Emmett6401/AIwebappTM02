@@ -6,6 +6,10 @@
   1. html
   2. javascript
   3. css
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
 ## 실행 화면 
 ![실행화면](https://github.com/Emmett6401/AIwebappTM02/blob/main/res/cap1.PNG)
 
